@@ -1,0 +1,19 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\firas\documents\visual studio 2013\projects\youtubevideosample\youtubevideosamplewin81\obj\debug\intermediatexaml\youtubevideosamplewin81.exe" HashGuid="f8a6a263-c3fc-1e06-74a5-85381d0d7edf" />
+    <ReferenceAssembly PathName="f:\my apps windows\youtube video sample - windows 8.1\packages\google.apis.auth.1.9.0\lib\netcore45\google.apis.auth.dll" HashGuid="04c9bafe-dbbf-bf32-cd3f-4d572f37e3c1" />
+    <ReferenceAssembly PathName="f:\my apps windows\youtube video sample - windows 8.1\packages\google.apis.auth.1.9.0\lib\netcore45\google.apis.auth.platformservices.dll" HashGuid="4f8fde0a-c1c9-6151-8119-9d76ab040ff4" />
+    <ReferenceAssembly PathName="f:\my apps windows\youtube video sample - windows 8.1\packages\google.apis.core.1.9.0\lib\portable-net40+sl50+win+wpa81+wp80\google.apis.core.dll" HashGuid="f5555c07-bb80-6148-3ac1-34df2e0bee65" />
+    <ReferenceAssembly PathName="f:\my apps windows\youtube video sample - windows 8.1\packages\google.apis.1.9.0\lib\netcore45\google.apis.dll" HashGuid="eee5f1a0-473f-ecd5-d165-8d1d5fa2631a" />
+    <ReferenceAssembly PathName="f:\my apps windows\youtube video sample - windows 8.1\packages\google.apis.1.9.0\lib\netcore45\google.apis.platformservices.dll" HashGuid="e9056043-33a3-30d3-2bee-ad37fe3ea533" />
+    <ReferenceAssembly PathName="f:\my apps windows\youtube video sample - windows 8.1\packages\google.apis.youtube.v3.1.9.0.1410\lib\portable-net40+sl50+win+wpa81+wp80\google.apis.youtube.v3.dll" HashGuid="3d5abd30-b0ee-6193-d2fc-9a70e2d144c5" />
+    <ReferenceAssembly PathName="f:\my apps windows\youtube video sample - windows 8.1\packages\microsoft.bcl.async.1.0.168\lib\win8\microsoft.threading.tasks.dll" HashGuid="3a1beea5-1547-d5c6-af32-3b5c761c2a6a" />
+    <ReferenceAssembly PathName="f:\my apps windows\youtube video sample - windows 8.1\packages\microsoft.bcl.async.1.0.168\lib\win8\microsoft.threading.tasks.extensions.dll" HashGuid="79a01987-c06c-c9d7-37eb-629809787680" />
+    <ReferenceAssembly PathName="f:\my apps windows\youtube video sample - windows 8.1\packages\mytoolkit.2.3.31.0\lib\portable-net45+wp8+win8+wpa81\mytoolkit.dll" HashGuid="f954329d-f40a-4c5f-1734-127e969f3d24" />
+    <ReferenceAssembly PathName="f:\my apps windows\youtube video sample - windows 8.1\packages\mytoolkit.extended.2.3.31.0\lib\portable-wpa81+win8\mytoolkit.extended.dll" HashGuid="146a9e74-41ed-555a-91a5-4a0ce1c19c4b" />
+    <ReferenceAssembly PathName="f:\my apps windows\youtube video sample - windows 8.1\packages\newtonsoft.json.6.0.4\lib\netcore45\newtonsoft.json.dll" HashGuid="21d6fdf9-5b56-582d-4524-cf342594819a" />
+    <ReferenceAssembly PathName="f:\my apps windows\youtube video sample - windows 8.1\packages\microsoft.net.http.2.2.22\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="f:\my apps windows\youtube video sample - windows 8.1\packages\microsoft.net.http.2.2.22\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="f:\my apps windows\youtube video sample - windows 8.1\packages\zlib.portable.1.10.0\lib\portable-net4+sl5+wp8+win8+wpa81+monotouch+monoandroid\zlib.portable.dll" HashGuid="c2e720fb-e50f-2f36-7080-d54c89253f2a" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

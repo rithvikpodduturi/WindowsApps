@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RITHVIK</Machine>
+    <WindowsUser>Rithvik</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ae470ac0-736b-4e8b-9cfb-50b40992cdbe</PackageIdentityName>
+    <IntermediateOutputPath>F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>28590052232B52CA3322D55F058CF3AF28D9AA071FE1E69B953D277A2A521AF6</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ae470ac0-736b-4e8b-9cfb-50b40992cdbe_1.0.0.0_neutral__d0gymzehbhzpw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ae470ac0-736b-4e8b-9cfb-50b40992cdbe_d0gymzehbhzpw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ae470ac0-736b-4e8b-9cfb-50b40992cdbe</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Firas</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-23T18:52:19.788</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\YoutubeVideoSampleWin81.exe">
+      <PackagePath>YoutubeVideoSampleWin81.exe</PackagePath>
+      <Modified>2015-10-23T18:52:18.263</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\packages\Google.Apis.Auth.1.9.0\lib\netcore45\Google.Apis.Auth.dll">
+      <PackagePath>Google.Apis.Auth.dll</PackagePath>
+      <Modified>2015-08-11T12:05:04.447</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\packages\Google.Apis.Auth.1.9.0\lib\netcore45\Google.Apis.Auth.PlatformServices.dll">
+      <PackagePath>Google.Apis.Auth.PlatformServices.dll</PackagePath>
+      <Modified>2015-08-11T12:05:04.509</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\packages\Google.Apis.Core.1.9.0\lib\portable-net40+sl50+win+wpa81+wp80\Google.Apis.Core.dll">
+      <PackagePath>Google.Apis.Core.dll</PackagePath>
+      <Modified>2015-08-11T12:05:04.962</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\packages\Google.Apis.1.9.0\lib\netcore45\Google.Apis.dll">
+      <PackagePath>Google.Apis.dll</PackagePath>
+      <Modified>2015-08-11T12:05:03.525</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\packages\Google.Apis.1.9.0\lib\netcore45\Google.Apis.PlatformServices.dll">
+      <PackagePath>Google.Apis.PlatformServices.dll</PackagePath>
+      <Modified>2015-08-11T12:05:03.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\packages\Google.Apis.YouTube.v3.1.9.0.1410\lib\portable-net40+sl50+win+wpa81+wp80\Google.Apis.YouTube.v3.dll">
+      <PackagePath>Google.Apis.YouTube.v3.dll</PackagePath>
+      <Modified>2015-08-11T12:05:05.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\packages\Microsoft.Bcl.Async.1.0.168\lib\win8\Microsoft.Threading.Tasks.dll">
+      <PackagePath>Microsoft.Threading.Tasks.dll</PackagePath>
+      <Modified>2015-08-11T12:05:09.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\packages\Microsoft.Bcl.Async.1.0.168\lib\win8\Microsoft.Threading.Tasks.Extensions.dll">
+      <PackagePath>Microsoft.Threading.Tasks.Extensions.dll</PackagePath>
+      <Modified>2015-08-11T12:05:09.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\packages\MyToolkit.2.3.31.0\lib\portable-net45+wp8+win8+wpa81\MyToolkit.dll">
+      <PackagePath>MyToolkit.dll</PackagePath>
+      <Modified>2015-08-11T12:05:11.922</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\packages\MyToolkit.Extended.2.3.31.0\lib\portable-wpa81+win8\MyToolkit.Extended.dll">
+      <PackagePath>MyToolkit.Extended.dll</PackagePath>
+      <Modified>2015-08-11T12:05:12.505</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\packages\Newtonsoft.Json.6.0.4\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2015-08-11T12:05:14.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\packages\Microsoft.Net.Http.2.2.22\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+      <Modified>2015-08-11T12:05:11.562</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\packages\Microsoft.Net.Http.2.2.22\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+      <Modified>2015-08-11T12:05:11.625</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\packages\Zlib.Portable.1.10.0\lib\portable-net4+sl5+wp8+win8+wpa81+MonoTouch+MonoAndroid\Zlib.Portable.dll">
+      <PackagePath>Zlib.Portable.dll</PackagePath>
+      <Modified>2015-08-11T12:05:14.482</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-11T12:05:14.716</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\Assets\Square150x150.png">
+      <PackagePath>Assets\Square150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-11T12:05:14.716</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\Assets\Square30x30.png">
+      <PackagePath>Assets\Square30x30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-11T12:05:14.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\Assets\Square310x310.png">
+      <PackagePath>Assets\Square310x310.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-11T12:05:14.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\Assets\Square70x70.png">
+      <PackagePath>Assets\Square70x70.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-11T12:05:14.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-11T12:05:14.763</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\Assets\Wide310x150.png">
+      <PackagePath>Assets\Wide310x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-11T12:05:14.763</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-10-23T18:52:17.901</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\View\MainPage.xbf">
+      <PackagePath>View\MainPage.xbf</PackagePath>
+      <Modified>2015-10-23T18:52:17.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\View\VideoPage.xbf">
+      <PackagePath>View\VideoPage.xbf</PackagePath>
+      <Modified>2015-10-23T18:52:17.908</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\YoutubeVideoSampleWin81.xr.xml">
+      <PackagePath>YoutubeVideoSampleWin81.xr.xml</PackagePath>
+      <Modified>2015-08-11T12:05:17.672</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\packages\MyToolkit.Extended.2.3.31.0\lib\portable-wpa81+win8\MyToolkit.Extended\MyToolkit.Extended.xr.xml">
+      <PackagePath>MyToolkit.Extended\MyToolkit.Extended.xr.xml</PackagePath>
+      <Modified>2015-08-11T12:05:12.599</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\packages\MyToolkit.Extended.2.3.31.0\lib\portable-wpa81+win8\MyToolkit.Extended\Controls\DatePicker.xbf">
+      <PackagePath>MyToolkit.Extended\Controls\DatePicker.xbf</PackagePath>
+      <Modified>2015-08-11T12:05:12.599</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\packages\MyToolkit.Extended.2.3.31.0\lib\portable-wpa81+win8\MyToolkit.Extended\Controls\TimePicker.xbf">
+      <PackagePath>MyToolkit.Extended\Controls\TimePicker.xbf</PackagePath>
+      <Modified>2015-08-11T12:05:12.615</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\packages\MyToolkit.Extended.2.3.31.0\lib\portable-wpa81+win8\MyToolkit.Extended\Themes\generic.xbf">
+      <PackagePath>MyToolkit.Extended\Themes\generic.xbf</PackagePath>
+      <Modified>2015-08-11T12:05:12.630</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\packages\MyToolkit.Extended.2.3.31.0\lib\portable-wpa81+win8\MyToolkit.Extended\UI\Popups\ListPickerBox.xbf">
+      <PackagePath>MyToolkit.Extended\UI\Popups\ListPickerBox.xbf</PackagePath>
+      <Modified>2015-08-11T12:05:12.661</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-10-23T18:52:19.027</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

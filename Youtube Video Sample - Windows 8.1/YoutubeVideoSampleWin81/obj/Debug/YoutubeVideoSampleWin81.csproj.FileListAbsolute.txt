@@ -1,0 +1,150 @@
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\YoutubeVideoSampleWin81.csprojResolveAssemblyReference.cache
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\App.g.i.cs
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\App.g.cs
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\View\MainPage.g.i.cs
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\View\MainPage.g.cs
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\View\VideoPage.g.i.cs
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\View\VideoPage.g.cs
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\XamlTypeInfo.g.cs
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\App.xaml
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\View\MainPage.xaml
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\App.xbf
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\View\MainPage.xbf
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\XamlSaveStateFile.xml
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\App.xbf
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\View\MainPage.xbf
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\View\VideoPage.xbf
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\YoutubeVideoSampleWin81.xr.xml
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\YoutubeVideoSampleWin81.exe
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\YoutubeVideoSampleWin81.pdb
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\resources.pri
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\AppxManifest.xml
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\YoutubeVideoSampleWin81.build.appxrecipe
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.Auth.dll
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.Core.dll
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.dll
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.PlatformServices.dll
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.YouTube.v3.dll
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\Microsoft.Threading.Tasks.dll
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\MyToolkit.dll
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\MyToolkit.Extended.dll
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\Newtonsoft.Json.dll
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\Zlib.Portable.dll
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.pdb
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.xml
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.Auth.pdb
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.Auth.xml
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.Core.pdb
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.Core.xml
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.PlatformServices.pdb
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.PlatformServices.xml
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.YouTube.v3.pdb
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.YouTube.v3.xml
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\Microsoft.Threading.Tasks.xml
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\MyToolkit.xml
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\MyToolkit.Extended.xml
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\MyToolkit.Extended.pri
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\Newtonsoft.Json.xml
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\System.Net.Http.Extensions.xml
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\System.Net.Http.Primitives.xml
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\bin\Debug\Zlib.Portable.xml
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\View\VideoPage.xaml
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\View\VideoPage.xbf
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\YoutubeVideoSampleWin81.exe
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\YoutubeVideoSampleWin81.pdb
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\YoutubeVideoSampleWin81.csproj.GenerateResource.Cache
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\priconfig.xml
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\priconfig.xml.intermediate
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\layout.resfiles
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\layout.resfiles.intermediate
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\resources.resfiles
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\resources.resfiles.intermediate
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\pri.resfiles
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\pri.resfiles.intermediate
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\qualifiers.txt
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\qualifiers.txt.intermediate
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\MyToolkit.Extended.pri.xml
+c:\users\firas\documents\visual studio 2013\Projects\YoutubeVideoSample\YoutubeVideoSampleWin81\obj\Debug\ProjectArchitectures.txt
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\App.xbf
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\View\MainPage.xbf
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\View\VideoPage.xbf
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\YoutubeVideoSampleWin81.xr.xml
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\YoutubeVideoSampleWin81.exe
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\YoutubeVideoSampleWin81.pdb
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\resources.pri
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\AppxManifest.xml
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\YoutubeVideoSampleWin81.build.appxrecipe
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.Auth.dll
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.Core.dll
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.dll
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.PlatformServices.dll
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.YouTube.v3.dll
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\Microsoft.Threading.Tasks.dll
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\MyToolkit.dll
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\MyToolkit.Extended.dll
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\Newtonsoft.Json.dll
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\System.Net.Http.Extensions.dll
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\System.Net.Http.Primitives.dll
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\Zlib.Portable.dll
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.pdb
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.xml
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.Auth.pdb
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.Auth.xml
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.Core.pdb
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.Core.xml
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.PlatformServices.pdb
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.PlatformServices.xml
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.YouTube.v3.pdb
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\Google.Apis.YouTube.v3.xml
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\Microsoft.Threading.Tasks.xml
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\MyToolkit.xml
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\MyToolkit.Extended.xml
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\MyToolkit.Extended.pri
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\Newtonsoft.Json.xml
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\System.Net.Http.Extensions.xml
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\System.Net.Http.Primitives.xml
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\bin\Debug\Zlib.Portable.xml
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\YoutubeVideoSampleWin81.csprojResolveAssemblyReference.cache
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\App.g.i.cs
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\App.g.cs
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\View\MainPage.g.i.cs
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\View\MainPage.g.cs
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\View\VideoPage.g.i.cs
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\View\VideoPage.g.cs
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\XamlTypeInfo.g.cs
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\App.xaml
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\View\MainPage.xaml
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\View\VideoPage.xaml
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\App.xbf
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\View\MainPage.xbf
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\View\VideoPage.xbf
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\XamlSaveStateFile.xml
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\YoutubeVideoSampleWin81.exe
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\YoutubeVideoSampleWin81.pdb
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\YoutubeVideoSampleWin81.csproj.GenerateResource.Cache
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\priconfig.xml
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\priconfig.xml.intermediate
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\layout.resfiles
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\layout.resfiles.intermediate
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\resources.resfiles
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\resources.resfiles.intermediate
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\pri.resfiles
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\pri.resfiles.intermediate
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\qualifiers.txt
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\qualifiers.txt.intermediate
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\MyToolkit.Extended.pri.xml
+F:\My Apps Windows\Youtube Video Sample - Windows 8.1\YoutubeVideoSampleWin81\obj\Debug\ProjectArchitectures.txt
